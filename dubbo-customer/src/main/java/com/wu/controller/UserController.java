@@ -1,4 +1,4 @@
-package controller;
+package com.wu.controller;
 
 import com.wu.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
